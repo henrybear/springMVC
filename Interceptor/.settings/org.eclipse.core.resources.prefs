@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//WebContent/index.jsp=UTF-8
+encoding//src/com/henrybear/controller/BookController.java=UTF-8
+encoding//src/com/henrybear/controller/InterceptorController.java=UTF-8
+encoding//src/com/henrybear/controller/ProjectController.java=UTF-8
+encoding//src/com/henrybear/controller/UserController.java=UTF-8
